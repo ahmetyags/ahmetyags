@@ -4,7 +4,7 @@
 🔭 I use React & React Native for web/mobile front-end, Node.js & Django technologies for back-end development.
 <br/>
 
-🛠 Skills<br/>
+🛠 Skills <br/>
 - HTML5, CSS3, JavaScript, React, React Native, Python, SQL, Node.js, Express.js, MongoDB, Django
 
 
