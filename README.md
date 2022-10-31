@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm a Full Stack Developer...
 
 ### What I'm using? 🛠  
-🔭 I use React & React Native for web/mobile front-end, Node.js & Django technologies for back-end development.
+🔭 I use React front-end, Node.js & Django technologies for back-end development.
 <br/>
 
 🛠 Skills <br/>
