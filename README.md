@@ -5,7 +5,7 @@
 <br/>
 
 🛠 Skills <br/>
-- HTML5, CSS3, JavaScript, React, React Native, Python, SQL, Node.js, Express.js, MongoDB, Django
+- HTML5, CSS3, SASS, JavaScript, React, React Native, Python, C#, Java, SQL, Node.js, Express.js, MongoDB, Django
 
 
 
