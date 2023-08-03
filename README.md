@@ -1,11 +1,11 @@
-## Hi there 👋 I'm a Full Stack Developer...
+## Hi there 👋 I'm a Frontend Developer...
 
 ### What I'm using? 🛠  
-🔭 I use React front-end, Node.js & Django technologies for back-end development.
+🔭 I use React & Angular for front-end development.
 <br/>
 
 🛠 Skills <br/>
-- HTML5, CSS3, SASS, JavaScript, React, React Native, Python, C#, Java, SQL, Node.js, Express.js, MongoDB, Django
+- HTML5, CSS3, SASS, JavaScript, Typescript, React, React Native, Angular, Python, C#, Java, SQL, Node.js, Express.js, MongoDB, Django
 
 
 
