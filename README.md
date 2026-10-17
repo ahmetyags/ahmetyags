@@ -3,7 +3,6 @@
 </div>
 
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=ahmetyags&label=Profile%20Views&countColor=%23263759" alt="Views" />
   <a href="https://linkedin.com/in/ahmetyags" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
