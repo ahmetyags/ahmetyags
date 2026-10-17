@@ -1,19 +1,14 @@
 # Hi there, I'm Ahmet Yagiz Ozbak
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ahmetyags&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
-</p>p>
-
 **Frontend / Full-Stack Developer** with 4+ years of hands-on experience in enterprise e-commerce platforms and high-performance modern web/mobile applications.
 
-- Frontend Developer at Enoca, engineering enterprise B2C/B2B platforms for CarrefourSA & Avansas.
-- - Specialized in Angular, Vue.js, TypeScript, React, React Native, and SAP Commerce Cloud (Hybris & Spartacus).
-  - - Hands-on expertise in financial payment workflows (Craftgate, Masterpass, GarantiPay, 3D Secure) handling 50K+ daily transactions.
-    - - Creator of [Duelcade](https://github.com/ahmetyags/duelcade) - a real-time cross-platform multiplayer game engine built with React Native (Expo), TypeScript & Colyseus WebSockets.
-      - - Based in Istanbul, Turkey (Open to Relocation & Remote).
+- **Frontend Developer** at **Enoca**, engineering enterprise B2C/B2B platforms for **CarrefourSA** & **Avansas**.
+- - Specialized in **Angular, Vue.js, TypeScript, React, React Native**, and **SAP Commerce Cloud (Hybris & Spartacus)**.
+  - - Hands-on expertise in financial payment workflows (**Craftgate, Masterpass, GarantiPay, 3D Secure**) handling 50K+ daily transactions.
+    - - Creator of **[Duelcade](https://github.com/ahmetyags/duelcade)** - a real-time cross-platform multiplayer game engine built with React Native (Expo), TypeScript & Colyseus WebSockets.
+      - - Based in **Istanbul, Turkey** (Open to Relocation & Remote).
        
         - ---
-
         ### Tech Stack & Tools
 
         **Languages & Core:**
@@ -40,7 +35,6 @@
         ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
         ---
-
         ### Featured Projects
 
         | Project | Tech Stack | Description |
@@ -62,7 +56,6 @@
 
         ### Connect with Me
 
-        - LinkedIn: [linkedin.com/in/ahmetyags](https://linkedin.com/in/ahmetyags)
-        - - Email: [ahmetlg93@gmail.com](mailto:ahmetlg93@gmail.com)
-          - - Location: Istanbul, Turkey
-            - 
+        - **LinkedIn:** [linkedin.com/in/ahmetyags](https://linkedin.com/in/ahmetyags)
+        - - **Email:** [ahmetlg93@gmail.com](mailto:ahmetlg93@gmail.com)
+          - - **Location:** Istanbul, Turkey
